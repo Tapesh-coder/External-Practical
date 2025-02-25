@@ -1,11 +1,11 @@
-/* Basic Reset */
+
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
 
-/* Body and Background */
+
 body {
     font-family: 'Arial', sans-serif;
     line-height: 1.6;
@@ -13,7 +13,7 @@ body {
     color: #333;
 }
 
-/* Header */
+
 header {
     background-color: #333;
     padding: 1rem 0;
@@ -49,7 +49,7 @@ nav ul li a {
     font-weight: bold;
 }
 
-/* Hero Section */
+
 #hero {
     background-color: #333;
     color: white;
@@ -98,7 +98,7 @@ nav ul li a {
     margin: 0 auto;
 }
 
-/* Projects Section */
+
 #projects {
     padding: 3rem 20px;
     background-color: #f4f4f4;
@@ -142,7 +142,7 @@ nav ul li a {
     font-weight: bold;
 }
 
-/* Contact Section */
+
 #contact {
     padding: 3rem 20px;
     text-align: center;
@@ -171,7 +171,7 @@ nav ul li a {
     background-color: #e04f29;
 }
 
-/* Footer */
+
 footer {
     background-color: #333;
     color: white;
@@ -181,5 +181,10 @@ footer {
     width: 100%;
     bottom: 0;
 }
-
+.x:hover{
+    color: blue;
+}
+.y:hover{
+    color: cyan;
+}
 
